@@ -1,0 +1,1 @@
+This is a simple Bootstrap styled website which aims to tutor a beginner-level bootstrap website. I have used many Bootstrap features and more importantly, have learnt about Bootstrap in the easiest way possible. 
